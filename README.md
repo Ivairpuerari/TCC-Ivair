@@ -1,4 +1,4 @@
-# TopicMIMIC
-Trabalho de Conclusão
+### Exploratory Analysis of the Electronic Health Record using Topic Modeling
 
-Aplicações desenvolvidas para geração de tópicos sobre registros eletrônicos de saúde.
+##### Abstract
+The rapid growth of electronic health record (EHR) systems brings the increase of available informationabout patients in hospitals. This massive amount of text information represents an opportunity to extract unknowninformation about medical history, medication, diseases, allergies, among others. Extract the main topics that representthe subjects covered by a text collection can give valuable insights. To this end, approaches for topic modeling havebeen used to tackle such problems of information discovery and extracting topic with thematic information. In thissense, this work presents an exploratory analysis of a health collection of electronic records from an intensive care unit(ICU). The collection is split into two sub-collections: discharged patients and patients who progressed to death. Weapply an LDA-based approach to discover the latent topics from the collections. The analyses show that some topicsare more recurrent in the death collection, like renal diseases, and others are more recurrent in discharge collection, like,diabetes. The results of the analyses can be useful for improving the health intensive care services since the topics canbe a guide to understand the patterns in discharge and death situations.
